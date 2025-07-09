@@ -7,7 +7,7 @@
 <code> **Warning: This work contains content that maybe offensive or upsetting.** </code>
 
 
-[[Paper](https://asuvarna31.github.io/files/modelcitizens.pdf)] [[🤗 Huggingface](https://huggingface.co/modelcitizens)] [[Twitter]()]
+[[Paper](https://arxiv.org/abs/2507.05455)] [[🤗 Huggingface](https://huggingface.co/modelcitizens)] [[Twitter]()]
 
 
 
