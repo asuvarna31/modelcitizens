@@ -11,7 +11,7 @@
 
 
 
-
+Detailed instructions and code coming soon. 
 
 
  Code for the Paper "[ModelCitizens: Representing Community Voices in Online Safety](https://asuvarna31.github.io/files/modelcitizens.pdf)".
