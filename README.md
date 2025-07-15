@@ -24,7 +24,7 @@ If you find ModelCitizens useful, please consider citing us!
 ```
 @misc{suvarna2025modelcitizensrepresentingcommunityvoicesonline,
       title={ModelCitizens:Representing Community Voices in Online Safety}, 
-      author={Ashima Suvarna and Christina Chance and Hamid Palangi and Sophie Hao and Thomas Hartvigsen and Saadia Gabriel},
+      author={Ashima Suvarna and Christina Chance and Karolina Naranjo and Hamid Palangi and Sophie Hao and Thomas Hartvigsen and Saadia Gabriel},
       year={2025},
       eprint={2507.05455},
       archivePrefix={arXiv},
