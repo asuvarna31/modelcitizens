@@ -10,11 +10,36 @@
 [[Paper](https://arxiv.org/abs/2507.05455)] [[🤗 Huggingface](https://huggingface.co/modelcitizens)] [[Twitter]()]
 
 
+## Evaluation 
 
-Detailed instructions and code coming soon. 
+## Train 
+We use [LLAMAFACTORY](https://github.com/hiyouga/LLaMA-Factory) to finetune the CITIZEN models. 
+
+```
+bash
+git clone https://github.com/hiyouga/LLaMA-Factory
+
+Move the training configs from `train` folder to `LLaMA-Factory/examples/train_full`.
+
+```
+bash
+mv modelcitizens/train/config_llama.yaml  LLaMA-Factory/examples/train_full
+
+Download the training data from huggingface. 
+
+```
+Python 
+from datasets import load_dataset
+ds = load_dataset("modelcitizens/modelcitizens")
+
+Add the train data entry in LLaMA-Factory/data/dataset_info.json with the correct local path to the train data. 
 
 
- Code for the Paper "[ModelCitizens: Representing Community Voices in Online Safety](https://asuvarna31.github.io/files/modelcitizens.pdf)".
+
+
+
+
+ Code for the Paper "[ModelCitizens: Representing Community Voices in Online Safety](https://arxiv.org/abs/2507.0545)".
 
 :bell: If you have any questions or suggestions, please don't hesitate to let us know. You can comment on [Twitter](https://x.com/suvarna_ashima), or post an issue on this repository.
 
