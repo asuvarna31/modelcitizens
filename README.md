@@ -13,7 +13,7 @@
 
 <div align="center">
 
-[📜 Paper](https://arxiv.org/abs/2507.05455) • [🤗 Huggingface](https://huggingface.co/modelcitizens) • [🐦 Twitter]()
+[📜 Paper](https://arxiv.org/abs/2507.05455) • [🤗 Huggingface](https://huggingface.co/modelcitizens) • [🐦 Twitter](https://x.com/suvarna_ashima/status/1959058440502092216)
 
 🎉🎉 ModelCitizens was accepted at EMNLP Main 2025!
 
