@@ -61,6 +61,9 @@ Add the train data entry in LLaMA-Factory/data/dataset_info.json with the correc
 - [Exploring Cross-Cultural Differences in English Hate Speech Annotations: From Dataset Construction to Analysis](https://github.com/nlee0212/CREHate)
 - [When Do Annotator Demographics Matter? Measuring the Influence of Annotator Demographics with the POPQUORN Dataset](https://arxiv.org/abs/2306.06826)
 
+## Acknowledgements
+This work was supported by the UCLA Initiative to Study Hate and UCLA Racial and Social Justice Seed Grants program.
+
 ## Citation
 If you find ModelCitizens useful, please consider citing us!
 
